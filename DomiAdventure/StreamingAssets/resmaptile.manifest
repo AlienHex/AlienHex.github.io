@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1089584279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2da38f31b35d1fca0affabf8c850e61f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35baa2905700f49f4592356713aa2140
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48aac9ac4be9d3f449e96e84dae7065e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ScriptableObject/ResMapTile.asset
+Dependencies: []
